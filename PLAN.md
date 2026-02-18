@@ -11,8 +11,8 @@ Decisions that have been made so far:
 - [ ] **Genre**: Not yet decided
 - [ ] **Theme / Setting**: Not yet decided
 - [ ] **Core gameplay loop**: Not yet decided
-- [ ] **Language**: Not yet decided (TypeScript vs JavaScript)
-- [ ] **Build tool**: Not yet decided
+- [x] **Language**: TypeScript
+- [x] **Build tool**: Vite
 - [ ] **Architecture pattern**: Not yet decided
 
 ---
