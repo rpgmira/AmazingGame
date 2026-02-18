@@ -15,6 +15,7 @@ A browser-based single-player game built with modern web technologies.
 | Game Framework | Phaser 3 (v3.90.0) | ✅ Decided |
 | Language | TypeScript | ✅ Decided |
 | Build Tool | Vite | ✅ Decided |
+| Architecture | Scene-based (Phaser built-in) | ✅ Decided |
 | Genre | TBD | ⏳ Pending |
 
 ## Project Structure

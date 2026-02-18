@@ -13,7 +13,7 @@ Decisions that have been made so far:
 - [ ] **Core gameplay loop**: Not yet decided
 - [x] **Language**: TypeScript
 - [x] **Build tool**: Vite
-- [ ] **Architecture pattern**: Not yet decided
+- [x] **Architecture pattern**: Scene-based (Phaser built-in)
 
 ---
 
@@ -25,7 +25,7 @@ Decisions that have been made so far:
 - [ ] Choose language (TypeScript / JavaScript)
 - [ ] Choose rendering approach
 - [ ] Choose build tool
-- [ ] Define project architecture
+- [x] Define project architecture
 - [ ] Finalize folder structure
 
 ## Phase 1 — Project Setup
