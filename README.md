@@ -16,7 +16,14 @@ A browser-based single-player game built with modern web technologies.
 | Language | TypeScript | ✅ Decided |
 | Build Tool | Vite | ✅ Decided |
 | Architecture | Scene-based (Phaser built-in) | ✅ Decided |
+
+## Game Design
+
+| Area | Choice | Status |
+|------|--------|--------|
 | Genre | TBD | ⏳ Pending |
+| Theme / Setting | TBD | ⏳ Pending |
+| Core Gameplay Loop | TBD | ⏳ Pending |
 
 ## Project Structure
 
