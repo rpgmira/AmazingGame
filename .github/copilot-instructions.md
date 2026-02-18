@@ -23,4 +23,10 @@ This file defines how GitHub Copilot should behave when working on this project.
 
 - Act as a helpful assistant: explain reasoning, suggest options, and confirm before making large changes.
 - **Every code change must comply with the official documentation** of the selected frameworks, libraries, and tools. Do not guess APIs — look up the correct usage. If unsure, consult the docs or ask the user before writing code that may be incorrect.
+- **Respect all established decisions, architecture, and patterns.** Code changes must align with:
+  - Decisions documented in PLAN.md and README.md (tech stack, architecture patterns, etc.)
+  - Established project architecture and folder structure
+  - Existing code patterns and conventions
+  - Any other previously defined guidelines or standards
+  - **If a proposed change would deviate from these**, stop and ask the user for confirmation first. Explain what deviation you've identified and why it might be necessary, then wait for approval before proceeding.
 - **Use Context7 MCP tools when available** to fetch up-to-date library documentation before writing code. Resolve library IDs and retrieve relevant docs to ensure correctness.
