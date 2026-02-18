@@ -13,8 +13,8 @@ A browser-based single-player game built with modern web technologies.
 | Platform | Browser (HTML5) | ✅ Decided |
 | Players | Single player | ✅ Decided |
 | Game Framework | Phaser 3 (v3.90.0) | ✅ Decided |
-| Language | TBD | ⏳ Pending |
-| Build Tool | TBD | ⏳ Pending |
+| Language | TypeScript | ✅ Decided |
+| Build Tool | Vite | ✅ Decided |
 | Genre | TBD | ⏳ Pending |
 
 ## Project Structure
